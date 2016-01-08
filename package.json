@@ -1,0 +1,19 @@
+{
+  "name": "yostik-web",
+  "version": "1.0.0",
+  "description": "Marketing page of Yostik",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yostikapp/yostik-web.git"
+  },
+  "author": "Maxi Ferreira <charca@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yostikapp/yostik-web/issues"
+  },
+  "homepage": "https://github.com/yostikapp/yostik-web#readme"
+}
